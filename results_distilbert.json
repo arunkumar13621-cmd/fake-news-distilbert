@@ -1,0 +1,15 @@
+{
+  "baseline_tfidf_lr": {
+    "accuracy": 0.8816666666666667,
+    "f1": 0.8682745825602969
+  },
+  "distilbert": {
+    "accuracy": 0.9783333333333334,
+    "f1": 0.9757009345794393
+  },
+  "setup": {
+    "rows_sampled": 3000,
+    "epochs": 2,
+    "max_len": 256
+  }
+}
